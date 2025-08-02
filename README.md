@@ -22,4 +22,4 @@ Welcome to the collection of notebooks focusing on **Probability**, curated by *
 ---
 
 👨‍💻 **Author:** Roshan Kumar  
-🎯 **Goal:** Aspiring Data Scientist – mastering probability for real-world applications.
+🎯 **Goal:** Aspiring Data Scientist – mastering probability for real-world applications
